@@ -1,5 +1,4 @@
-Cloud-H3
-========
+
 
 Prime number generator
 ======================
